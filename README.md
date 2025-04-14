@@ -1,6 +1,6 @@
 # Road Accident Dashboard (Built with Microsoft Excel)
 
-![HR Attrition Dashboard Image](https://github.com/Mukid-Ahsam/Road-Accident-Dashboard/blob/main/RD%20Accident%20Dashboard.png)
+![Road-Accident-Dashboard](https://github.com/Mukid-Ahsam/Road-Accident-Dashboard/blob/main/RD%20Accident%20Dashboard.png)
 
 
 
